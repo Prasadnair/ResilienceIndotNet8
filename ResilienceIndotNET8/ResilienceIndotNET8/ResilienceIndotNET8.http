@@ -1,0 +1,6 @@
+@ResilienceIndotNET8_HostAddress = http://localhost:5094
+
+GET {{ResilienceIndotNET8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
